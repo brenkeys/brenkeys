@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brenda
 - 👶 Born and raised in 🇲🇽
-- 💻 I am a **Staff Software Engineer** at **Mantl**
+- 💻 I am a **Software Engineer** at **Mantl**
 - 🏠 I call **Charlotte, NC** home
 - 👀 I’m interested in **Cloud Native** technologies
 - 🌱 I’m currently learning **Google Cloud Platform** and **accordion** :notes:
