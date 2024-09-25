@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Brenda Cardenas
+# 👋 Hi, I’m Brenda
 - 👶 Born and raised in 🇲🇽
 - 💻 I am a **Staff Software Engineer** at **Mantl**
 - 🏠 I call **Charlotte, NC** home
@@ -9,8 +9,6 @@
 
  ### 📫 How to reach me ...
  - :envelope_with_arrow: **brenda@mantl.com**
- - :bird: Twitter: **@brenkeys**
- 
 
 <!---
 brenkeys/brenkeys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
